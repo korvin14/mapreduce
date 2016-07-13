@@ -1,0 +1,3 @@
+mapreduce/WordCount$IntSumReducer.class
+mapreduce/WordCount$TokenizerMapper.class
+mapreduce/WordCount.class
